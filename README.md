@@ -1,6 +1,6 @@
 # Paxos Algorithm
 
-This coding challenge is part of the recruitment process at [Meeteam](https://meeteam.co). The task consists on simulating a distributed system and implementing a consensus algorithm (in this case, Paxos) to achieve to ensure all nodes agree on the shared state.
+This coding challenge is part of the recruitment process at [Meeteam](https://meeteam.co). The task consists on simulating a distributed system and implementing a consensus algorithm (in this case, Paxos) to ensure all nodes agree on the shared state.
 
 ## Built With
 
@@ -15,4 +15,4 @@ This coding challenge is part of the recruitment process at [Meeteam](https://me
 
 ## Author
 
-[Rubén D. Pire](https://rpire.dev)
+[Rubén D. Pire](https://rpire.dev/)
